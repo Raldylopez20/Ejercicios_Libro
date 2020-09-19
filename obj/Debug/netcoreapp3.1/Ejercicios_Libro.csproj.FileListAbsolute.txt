@@ -1,0 +1,13 @@
+C:\Users\AnthonyB\Desktop\Ejercicios_Libro\bin\Debug\netcoreapp3.1\Ejercicios_Libro.exe
+C:\Users\AnthonyB\Desktop\Ejercicios_Libro\bin\Debug\netcoreapp3.1\Ejercicios_Libro.deps.json
+C:\Users\AnthonyB\Desktop\Ejercicios_Libro\bin\Debug\netcoreapp3.1\Ejercicios_Libro.runtimeconfig.json
+C:\Users\AnthonyB\Desktop\Ejercicios_Libro\bin\Debug\netcoreapp3.1\Ejercicios_Libro.runtimeconfig.dev.json
+C:\Users\AnthonyB\Desktop\Ejercicios_Libro\bin\Debug\netcoreapp3.1\Ejercicios_Libro.dll
+C:\Users\AnthonyB\Desktop\Ejercicios_Libro\bin\Debug\netcoreapp3.1\Ejercicios_Libro.pdb
+C:\Users\AnthonyB\Desktop\Ejercicios_Libro\obj\Debug\netcoreapp3.1\Ejercicios_Libro.csprojAssemblyReference.cache
+C:\Users\AnthonyB\Desktop\Ejercicios_Libro\obj\Debug\netcoreapp3.1\Ejercicios_Libro.AssemblyInfoInputs.cache
+C:\Users\AnthonyB\Desktop\Ejercicios_Libro\obj\Debug\netcoreapp3.1\Ejercicios_Libro.AssemblyInfo.cs
+C:\Users\AnthonyB\Desktop\Ejercicios_Libro\obj\Debug\netcoreapp3.1\Ejercicios_Libro.csproj.CoreCompileInputs.cache
+C:\Users\AnthonyB\Desktop\Ejercicios_Libro\obj\Debug\netcoreapp3.1\Ejercicios_Libro.dll
+C:\Users\AnthonyB\Desktop\Ejercicios_Libro\obj\Debug\netcoreapp3.1\Ejercicios_Libro.pdb
+C:\Users\AnthonyB\Desktop\Ejercicios_Libro\obj\Debug\netcoreapp3.1\Ejercicios_Libro.genruntimeconfig.cache
